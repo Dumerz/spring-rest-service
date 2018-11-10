@@ -1,0 +1,1 @@
+web: java -jar target/spring-rest-service-0.0.1-SNAPSHOT.jar --server.port=80
